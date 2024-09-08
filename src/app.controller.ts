@@ -7,6 +7,12 @@ export class AppController {
 
   @Get()
   getHello(): string {
+    return this.appService.Firugay();
     return this.appService.getHello();
   }
+}
+
+
+function Firugay(): string {
+  return 'firu es gay!';
 }
