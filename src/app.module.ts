@@ -9,6 +9,6 @@ import { AppService } from './app.service';
 })
 export class AppModule {}
 
-let HelloController = "Hola";
+const HelloController = 'Hola';
 
-let NoSe = "Siiiiuuuu";
+const NoSe = 'Siiiiuuuu';
