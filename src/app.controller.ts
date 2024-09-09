@@ -12,7 +12,13 @@ export class AppController {
   }
 }
 
+<<<<<<< HEAD
 
 function Firugay(): string {
   return 'firu es gay!';
 }
+=======
+function sumar(a, b) {
+  return a + b;
+}
+>>>>>>> 1f131ccb8e8a42ba351f39b85e5290c659e81069
